@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokeshrana9999&show_icons=true&border_radius=15&include_all_commits=true&count_private=true&icon_color=ededed&title_color=ffffff&text_color=fafafa&bg_color=0,bc4e9c,f80759" alt="lokeshrana9999" />
 <!--
 **lokeshrana9999/lokeshrana9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

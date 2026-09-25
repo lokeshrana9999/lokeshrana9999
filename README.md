@@ -1,6 +1,6 @@
 <h1 align="center">Lokesh Rana</h1>
 
-<p align="center"><strong>Software Engineer · Full-Stack Development · AI Integration</strong></p>
+<p align="center"><strong>Software Engineer · Full-Stack Products · Applied AI</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React" />
@@ -12,6 +12,8 @@
 <p align="center"><a href="https://github.com/lokeshrana9999?tab=repositories">Repositories</a> &nbsp;·&nbsp; <a href="https://www.upwork.com/freelancers/~01a9384f82d1a7dbec">Work with me on Upwork</a></p>
 
 <p align="center"><a href="#selected-work">Selected work</a> &nbsp;·&nbsp; <a href="#public-code-and-contributions">Open source</a> &nbsp;·&nbsp; <a href="#skills-and-tools">Skills & tools</a></p>
+
+<p align="center"><img src="assets/engineering-flow.svg" width="900" alt="Interfaces, APIs and AI workflows — React, TypeScript, Node.js and developer tools" /></p>
 
 ---
 
@@ -41,13 +43,13 @@ MathAI turns authored lessons into interactive math exercises. At The Homework A
 
 - **Lesson authoring:** built controls for configurable tables, LaTeX cells, cell merging, shapes and answer evaluation.
 - **Learner interactions:** extended tap/select and drag-and-drop activities with partial-answer feedback, rounds and timers.
-- **Subscriptions:** implemented regional coupons, tax/currency rules, recurring payments and profile-state handling.
+- **Subscription lifecycle:** implemented regional coupons, tax/currency rules, recurring payments and profile-state handling.
 
 ### Internal AI game builder — educational content authoring
 
-`AI agent development` · `Claude Code` · `Multi-agent workflows`
+`Agentic workflows` · `Claude Code` · `Multi-agent orchestration`
 
-At The Homework App, I built a **Claude Code multi-agent workflow** that turns educational ideas into playable HTML games. I developed shared components for consistent layouts, progress and transitions, coordinated audio with interaction state, and added session and answer-attempt recording. The builder was internal; its resulting games were published to learners.
+At The Homework App, I built a **Claude Code multi-agent workflow** that turns educational ideas into playable HTML games. I developed shared components for consistent layouts, progress and transitions, coordinated audio with interaction state, and added application instrumentation for session metrics and answer-attempt history. The builder was internal; its resulting games were published to learners.
 
 ### Uplara — ecommerce tools
 
@@ -70,7 +72,7 @@ Earlier work includes learning and event-booking applications, HR tools, and lea
 
 | Area | Technologies and practices |
 | --- | --- |
-| **Frontend development** | React, TypeScript, JavaScript, reusable components, state management |
+| **Frontend development** | React, TypeScript, JavaScript, component-based UI development, reusable components, state management |
 | **Backend & APIs** | Node.js, Express.js, PostgreSQL, SQL, GraphQL, REST APIs, API integration |
 | **AI & developer tools** | Generative AI, LLM integration, AI agent development, multi-agent workflows, Claude Code, workflow orchestration |
 | **Engineering practices** | Debugging, code review, automated testing, workflow reliability and recovery |

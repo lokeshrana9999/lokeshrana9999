@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-labelledby="title desc">
+<title id="title">Interfaces, APIs and AI workflows</title>
+<desc id="desc">A quiet animated connection between three areas of my engineering work.</desc>
+<style>
+.card{fill:#f6f8fa;stroke:#d0d7de}.label{fill:#24292f;font:600 18px system-ui,sans-serif}.detail{fill:#57606a;font:13px system-ui,sans-serif}.line{stroke:#94a3b8;stroke-width:1.5}.dot{fill:#64869b}
+@media(prefers-color-scheme:dark){.card{fill:#161b22;stroke:#30363d}.label{fill:#e6edf3}.detail{fill:#9da7b3}}
+@media(prefers-reduced-motion:reduce){.motion{display:none}}
+</style>
+<path class="line" d="M270 56H335M565 56H630"/>
+<rect class="card" x="10" y="15" width="260" height="82" rx="10"/>
+<rect class="card" x="335" y="15" width="230" height="82" rx="10"/>
+<rect class="card" x="630" y="15" width="260" height="82" rx="10"/>
+<g text-anchor="middle"><text class="label" x="140" y="49">Interfaces</text><text class="detail" x="140" y="73">React · TypeScript · Interaction</text><text class="label" x="450" y="49">APIs &amp; product logic</text><text class="detail" x="450" y="73">Node.js · PostgreSQL</text><text class="label" x="760" y="49">AI workflows</text><text class="detail" x="760" y="73">Agents · Developer tools</text></g>
+<g class="motion"><circle class="dot" cx="278" cy="56" r="3"><animate attributeName="cx" values="278;327;278" dur="10s" repeatCount="indefinite"/></circle><circle class="dot" cx="573" cy="56" r="3"><animate attributeName="cx" values="573;622;573" dur="10s" repeatCount="indefinite"/></circle></g>
+</svg>

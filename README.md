@@ -14,7 +14,7 @@ My work often connects product interfaces with APIs, application state and recov
 
 <sub>01 / INCUBYTE</sub>
 
-### Rolai — AI workflow software
+### 🔀 Rolai — AI workflow software
 
 `Workflow orchestration` · `State management` · `Developer tools`
 
@@ -28,7 +28,7 @@ Rolai is a product for connecting workflow steps and working with application da
 
 <sub>02 / THE HOMEWORK APP</sub>
 
-### MathAI — interactive math learning
+### 📐 MathAI — interactive math learning
 
 `EdTech` · `Interactive applications` · `Payment integration`
 
@@ -42,7 +42,7 @@ MathAI turns authored lessons into interactive math exercises. At The Homework A
 
 <sub>03 / THE HOMEWORK APP</sub>
 
-### Internal AI game builder — educational content authoring
+### 🧩 Internal AI game builder — educational content authoring
 
 `Agentic workflows` · `Claude Code` · `Multi-agent orchestration`
 
@@ -52,7 +52,7 @@ At The Homework App, I built a **Claude Code multi-agent workflow** that turns e
 
 <sub>04 / UPLARA</sub>
 
-### Uplara — ecommerce tools
+### 🛍️ Uplara — ecommerce tools
 
 `Generative AI` · `Ecommerce` · `WebGL`
 
@@ -63,20 +63,20 @@ Earlier work includes learning and event-booking applications, HR tools, and lea
 ## Public code and contributions
 
 <table>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/elastic/eui/pull/3174">Elastic UI — merged PR #3174</a></h3><p>Mobile navigation scrolling fix, snapshot updates and maintainer review.</p></td><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/books-api">Books API</a></h3><p>TypeScript/Fastify/Prisma API project with authentication, audit logging and tests.</p></td></tr>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/incubyte-salary-management">Salary management</a></h3><p>Python/FastAPI/SQLAlchemy exercise documenting AI assistance and human checkpoints.</p></td><td width="50%" valign="top"><h3><a href="https://www.shraddhapailab.com/our-team">Google Summer of Code — Shraddha Pai Lab</a></h3><p>Gene-annotation visualization contribution.</p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/elastic/eui/pull/3174">🔧 Elastic UI — merged PR #3174</a></h3><p>Mobile navigation scrolling fix, snapshot updates and maintainer review.</p></td><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/books-api">📚 Books API</a></h3><p>TypeScript/Fastify/Prisma API project with authentication, audit logging and tests.</p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/incubyte-salary-management">🧮 Salary management</a></h3><p>Python/FastAPI/SQLAlchemy exercise documenting AI assistance and human checkpoints.</p></td><td width="50%" valign="top"><h3><a href="https://www.shraddhapailab.com/our-team">🧬 Google Summer of Code — Shraddha Pai Lab</a></h3><p>Gene-annotation visualization contribution.</p></td></tr>
 </table>
 
 ## Skills and tools
 
 | Area | Technologies and practices |
 | --- | --- |
-| **Frontend development** | React, TypeScript, JavaScript, component-based UI development, reusable components, state management |
-| **Backend & APIs** | Node.js, Express.js, PostgreSQL, SQL, GraphQL, REST APIs, API integration |
-| **AI & developer tools** | Generative AI, LLM integration, AI agent development, multi-agent workflows, Claude Code, workflow orchestration |
-| **Engineering practices** | Debugging, code review, automated testing, workflow reliability and recovery |
-| **Interactive applications** | PixiJS, WebGL, data visualization, educational technology |
-| **Additional project work** | Python, FastAPI, SQLAlchemy, Fastify, Prisma |
+| **🖥️ Frontend development** | React, TypeScript, JavaScript, component-based UI development, reusable components, state management |
+| **🗄️ Backend & APIs** | Node.js, Express.js, PostgreSQL, SQL, GraphQL, REST APIs, API integration |
+| **🤖 AI & developer tools** | Generative AI, LLM integration, AI agent development, multi-agent workflows, Claude Code, workflow orchestration |
+| **🧪 Engineering practices** | Debugging, code review, automated testing, workflow reliability and recovery |
+| **🎨 Interactive applications** | PixiJS, WebGL, data visualization, educational technology |
+| **🧰 Additional project work** | Python, FastAPI, SQLAlchemy, Fastify, Prisma |
 
 I care about understandable code, reusable components and useful failure handling. Outside professional work, I explore creative tools, visualization and desktop utilities.
 

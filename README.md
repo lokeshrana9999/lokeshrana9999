@@ -1,85 +1,85 @@
-<p><img src="assets/profile-hero.svg" width="1000" alt="Lokesh Rana — Software Engineer. Full-stack products, applied AI and developer tools. 6+ years of professional experience." /></p>
+<p><img src="assets/profile-hero.svg" width="1000" alt="Lokesh Rana — product engineer building AI-agent systems. About 7 years of experience. IIT Guwahati, Google Summer of Code 2021." /></p>
 
-<p align="center"><a href="#selected-work">Selected work</a> &nbsp;·&nbsp; <a href="#public-code-and-contributions">Public code</a> &nbsp;·&nbsp; <a href="#skills-and-tools">Skills</a> &nbsp;·&nbsp; <a href="https://www.upwork.com/freelancers/~01a9384f82d1a7dbec">Work with me ↗</a></p>
+<p align="center"><a href="#selected-work">Selected work</a> &nbsp;·&nbsp; <a href="#open-source-and-writing">Open source</a> &nbsp;·&nbsp; <a href="#skills-and-tools">Skills</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/lokesh-rana-310988126">LinkedIn ↗</a></p>
 
-**Currently:** Software Engineer at **Incubyte**, contributing to Rolai.
+**Product engineer building AI-agent systems** · Co-developed an AI agent platform's runtime (over 5,000 AI workflow runs a day) · React/TypeScript, Node.js, Python
 
-I build interactive web applications, backend product features and tools around **generative AI and LLM integration**. I have **6+ years of professional experience** across education, workflow software and ecommerce, with a strong foundation in **React, TypeScript and Node.js**.
+Product engineer with about 7 years of experience building AI-agent systems. Co-developed the runtime of an AI agent platform for US health-tech and ed-tech customers (over 5,000 AI workflow runs a day) and built a multi-agent Claude Code pipeline that cut learning-game creation from 2 days to 1 hour. I scope, ship and demo with clients' teams; React/TypeScript, Node.js, Python.
 
-My work often connects product interfaces with APIs, application state and recovery when something goes wrong.
+IIT Guwahati alumnus (BTech, Bioscience and Bioengineering); Google Summer of Code 2021 developer. Based in Sikar, Rajasthan, India; open to remote roles or relocating within India.
 
 ## Selected work
 
 <br/>
 
-<sub>01 / INCUBYTE</sub>
+<sub>01 / INCUBYTE · SOFTWARE CRAFTSPERSON · APRIL-OCTOBER 2026</sub>
 
-### 🔀 Rolai — AI workflow software
+### 🔀 Rolai — an AI agent platform
 
-`Workflow orchestration` · `State management` · `Developer tools`
+`AI agents` · `Job-queue runtime` · `Node.js` · `PostgreSQL` · `Claude Code`
 
-Rolai is a product for connecting workflow steps and working with application data. At Incubyte, I contribute to its execution systems, data operations and user-facing features.
+On an Incubyte team inside a client's team, building Rolai, its AI agent platform for US health-tech and ed-tech customers.
 
-- **Workflow reliability:** improved execution-state and memory handling, and investigated failure and recovery paths.
-- **Data operations:** added bulk creation, updates and deletion of datastore records.
-- **Developer tools:** designed and used an AI-assisted code-review workflow that checks new changes against relevant concerns from past reviews.
-
-<br/>
-
-<sub>02 / THE HOMEWORK APP</sub>
-
-### 📐 MathAI — interactive math learning
-
-`EdTech` · `Interactive applications` · `Payment integration`
-
-MathAI turns authored lessons into interactive math exercises. At The Homework App, I contributed across its content editor, learner activities and subscription services.
-
-- **Lesson authoring:** built controls for configurable tables, LaTeX cells, cell merging, shapes and answer evaluation.
-- **Learner interactions:** extended tap/select and drag-and-drop activities with partial-answer feedback, rounds and timers.
-- **Subscription lifecycle:** implemented regional coupons, tax/currency rules, recurring payments and profile-state handling.
+- Co-developed a fault-tolerant job-queue runtime (Node.js, TypeScript, PostgreSQL) for over 5,000 customer AI workflow runs a day, so long-running workflows finish instead of hanging.
+- Enabled end users to run AI workflows and datasets 100x larger by cutting runtime memory 95% (blob storage) and making PostgreSQL database writes 80% smaller.
+- Reduced code-review time and back-and-forth on AI-generated code by building Claude Code PR-review and PR-description skills from past reviewer comments, adopted by teammates for self-review.
+- Owned client-facing delivery: scoped features with the client's team, demoed releases to their leadership, and resolved end-user issues after launch.
 
 <br/>
 
-<sub>03 / THE HOMEWORK APP</sub>
+<sub>02 / OPEN SOURCE · AUTHOR</sub>
 
-### 🧩 Internal AI game builder — educational content authoring
+### 🛠️ [shipyard](https://github.com/lokeshrana9999/shipyard) — agent skills for coding agents
 
-`Agentic workflows` · `Claude Code` · `Multi-agent orchestration`
+`Agent skills` · `Claude Code` · `Codex`
 
-At The Homework App, I built a **Claude Code multi-agent workflow** that turns educational ideas into playable HTML games. I developed shared components for consistent layouts, progress and transitions, coordinated audio with interaction state, and added application instrumentation for session metrics and answer-attempt history. The builder was internal; its resulting games were published to learners.
+Wrote shipyard, open-source agent skills that take a change from question to a tested, live-checked, reviewed pull request in Claude Code, Codex and other agents.
 
 <br/>
 
-<sub>04 / UPLARA</sub>
+<sub>03 / INFYBYTES · SOFTWARE DEVELOPER · JULY 2023-DECEMBER 2025</sub>
 
-### 🛍️ Uplara — ecommerce tools
+### 📐 [MathAI](https://mathai.ai/) — learning games
 
-`Generative AI` · `Ecommerce` · `WebGL`
+`Multi-agent workflows` · `PixiJS` · `React` · `Razorpay`
 
-At Uplara, I developed a GPT-based tool to help merchants improve product-listing content, alongside separate commerce-extension and WebGL product-viewer work.
+MathAI, a learning-games app: over 20,000 users, over 2,000 concurrent users at daily peak.
 
-Earlier work includes learning and event-booking applications, HR tools, and leading frontend development for the LensHood React marketplace.
+- Architected the Figma-to-Web game engine (PixiJS, React, TypeScript) behind 1,000+ published learning games, cutting a single puzzle type's development from 2 weeks to 2 days.
+- Cut learning-game creation from 2 days to 1 hour with a multi-agent LLM pipeline (Claude Code) that turned a lesson idea into a published game.
+- Shipped recurring subscription billing (Razorpay UPI autopay, Node.js, GraphQL) so MathAI subscriptions renewed automatically, with payment retries, free trials and multi-currency pricing.
+- Automated JavaScript game logic for over 500 published games with an LLM code-generation pipeline built in Langflow.
 
-## Public code and contributions
+<br/>
+
+<sub>04 / UPLARA AND SUNMALL · SOFTWARE DEVELOPER · JUNE 2021-MAY 2023</sub>
+
+### 🛍️ E-commerce extensions
+
+`Shopify` · `FastAPI` · `GCP`
+
+- Built and shipped multi-platform e-commerce extensions (Shopify, WooCommerce, BigCommerce) used by over 100 stores serving thousands of customers.
+- Cut deploy time 70% with parallel GCP Cloud Functions deploys in CI/CD, then a further 60% by moving the backend to FastAPI on a VM.
+
+<br/>
+
+<sub>EARLIER</sub>
+
+- **Freelance, Web Developer (November 2019-June 2021):** Shipped full-stack products from proof of concept to production as sole developer for startups and an L&D consultancy, including a real-time learning platform.
+- **LensHood, Frontend Lead (April-November 2019).**
+
+## Open source and writing
 
 <table>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/elastic/eui/pull/3174">🔧 Elastic UI — merged PR #3174</a></h3><p>Mobile navigation scrolling fix, snapshot updates and maintainer review.</p></td><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/books-api">📚 Books API</a></h3><p>TypeScript/Fastify/Prisma API project with authentication, audit logging and tests.</p></td></tr>
-<tr><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/incubyte-salary-management">🧮 Salary management</a></h3><p>Python/FastAPI/SQLAlchemy exercise documenting AI assistance and human checkpoints.</p></td><td width="50%" valign="top"><h3><a href="https://www.shraddhapailab.com/our-team">🧬 Google Summer of Code — Shraddha Pai Lab</a></h3><p>Gene-annotation visualization contribution.</p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://github.com/lokeshrana9999/shipyard">🛠️ shipyard</a></h3><p>Open-source agent skills for Claude Code, Codex and other coding agents.</p></td><td width="50%" valign="top"><h3><a href="https://medium.com/@lokeshrana_17800/what-fiction-writers-know-about-prompting-that-engineers-dont-0b6a2eac6628">✍️ What fiction writers know about prompting that engineers don't</a></h3><p>An essay on prompting, on Medium.</p></td></tr>
+<tr><td width="50%" valign="top"><h3><a href="https://www.shraddhapailab.com/our-team">🧬 Google Summer of Code 2021 — Shraddha Pai Lab</a></h3><p>Built a React and Cytoscape.js viewer that renders hierarchical gene-annotation networks in under a second.</p></td><td width="50%" valign="top"><h3><a href="https://github.com/elastic/eui/pull/3174">🔧 Elastic UI</a></h3><p>A merged fix for mobile-navigation scrolling in the EUI component library.</p></td></tr>
 </table>
 
 ## Skills and tools
 
-| Area | Technologies and practices |
+| Area | Technologies |
 | --- | --- |
-| **🖥️ Frontend development** | React, TypeScript, JavaScript, component-based UI development, reusable components, state management |
-| **🗄️ Backend & APIs** | Node.js, Express.js, PostgreSQL, SQL, GraphQL, REST APIs, API integration |
-| **🤖 AI & developer tools** | Generative AI, LLM integration, AI agent development, multi-agent workflows, Claude Code, workflow orchestration |
-| **🧪 Engineering practices** | Debugging, code review, automated testing, workflow reliability and recovery |
-| **🎨 Interactive applications** | PixiJS, WebGL, data visualization, educational technology |
-| **🧰 Additional project work** | Python, FastAPI, SQLAlchemy, Fastify, Prisma |
-
-I care about understandable code, reusable components and useful failure handling. Outside professional work, I explore creative tools, visualization and desktop utilities.
-
----
-
-**Education:** IIT Guwahati — BTech, Bioscience and Bioengineering.
+| **🤖 AI and agents** | AI agents, multi-agent workflows, Claude Code, Codex, MCP servers, OpenAI APIs, Langflow, prompt engineering, RAG |
+| **🗄️ Backend and data** | Node.js, TypeScript, Express, Python, FastAPI, PostgreSQL, MongoDB, GraphQL, Hasura, Prisma, REST APIs, async job queues |
+| **🖥️ Frontend** | React, Next.js, JavaScript, PixiJS, WebGL, D3.js, Cytoscape.js |
+| **🧰 Infrastructure and payments** | GCP, Google Cloud Functions, CI/CD, Docker, blob storage, Razorpay subscription billing |
